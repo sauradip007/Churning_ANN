@@ -1,0 +1,1 @@
+This repository contains my python notebook where I have approached the churning problem on a dataset 
